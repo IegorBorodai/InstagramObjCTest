@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  TestApp
+
+  Created by Iegor Borodai on 7/23/15.
+  Copyright (c) 2015 Iegor Borodai. All rights reserved.
+
+*/
+
+/* Network error when instagram API not working or send corrupted data */
+"request.error.instagram" = "Oops... Something is going wrong with Instagram.\Try again later";
+
+/* Network error when instagram API found private profile */
+"request.error.instagramPrivate" = "Sorry... This intstagram profile is private...";
+
+/* Network error when user has problems with internet connection */
+"request.error.internet" = "Oops... Something is going wrong with your internet connection.\Please check you internet and try again";
+
+
+
+
