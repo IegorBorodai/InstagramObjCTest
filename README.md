@@ -1,5 +1,7 @@
 # InstagramObjTest
 
+**Total 5 hours of work**
+
 **Features:**
 
 * Create a simple screen with an input form where people can enter username of an Instagram user and see all his posts (grid). After this form was submitted display a feed of all posts from that user. Bonus points: avoid requiring user to sign in with Instagram.
